@@ -10,6 +10,15 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 6em;
+  margin: auto;
+  color: white;
+  text-align: center;
+}
+
+
 .Download {
   font-size: larger;
   color: aqua;
